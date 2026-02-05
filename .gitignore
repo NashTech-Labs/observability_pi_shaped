@@ -45,4 +45,4 @@ HELP.md
 
 # Ignore project-level Git attributes if you want
 .gitattributes
-.gitignore
+.gitignore.env
